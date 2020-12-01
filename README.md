@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201201：[介绍下深度优先遍历和广度优先遍历，如何实现？]('./questions/q5-20201201.md')
 - 20201130：[Q4：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？]('./questions/q4-20201130.md')
 - 20201129：[Q3：什么是防抖和节流？有什么区别？如何实现？]('./questions/q3-20201129.md')
 - 20201128：[Q2：['1', '2', '3'].map(parseInt) what & why ?]('./questions/q2-20201128.md')
