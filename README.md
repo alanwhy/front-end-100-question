@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201203：[Q7：ES5/ES6 的继承除了写法以外还有什么区别？](/questions/q7-20201203.md)
 - 20201202：[Q6：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](/questions/q6-20201202.md)
 - 20201201：[Q5：介绍下深度优先遍历和广度优先遍历，如何实现？](/questions/q5-20201201.md)
 - 20201130：[Q4：介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](/questions/q4-20201130.md)
