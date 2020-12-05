@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201205：[Q9：Async/Await 如何通过同步的方式实现异步](/questions/q8-20201205.md)
 - 20201204：[Q8：setTimeout、Promise、Async/Await 的区别](/questions/q8-20201204.md)
 - 20201203：[Q7：ES5/ES6 的继承除了写法以外还有什么区别？](/questions/q7-20201203.md)
 - 20201202：[Q6：请分别用深度优先思想和广度优先思想实现一个拷贝函数？](/questions/q6-20201202.md)
