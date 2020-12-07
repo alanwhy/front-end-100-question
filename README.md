@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201207：[Q11：将数组扁平化并去除其中重复数据，最终得到一个升序且不重复的数组](/questions/q11-20201207.md)
 - 20201206：[Q10：异步笔试题：async/await/setTimeout/Promise](/questions/q10-20201206.md)
 - 20201205：[Q9：Async/Await 如何通过同步的方式实现异步](/questions/q9-20201205.md)
 - 20201204：[Q8：setTimeout、Promise、Async/Await 的区别](/questions/q8-20201204.md)
