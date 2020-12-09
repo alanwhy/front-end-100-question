@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201209：[Q13：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](/questions/q13-20201209.md)
 - 20201208：[Q12：JS 异步解决方案的发展历程以及优缺点](/questions/q12-20201208.md)
 - 20201207：[Q11：将数组扁平化并去除其中重复数据，最终得到一个升序且不重复的数组](/questions/q11-20201207.md)
 - 20201206：[Q10：异步笔试题：async/await/setTimeout/Promise](/questions/q10-20201206.md)
