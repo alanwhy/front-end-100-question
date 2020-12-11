@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201211：[Q15：简单讲解一下 http2 的多路复用](/questions/q15-20201211.md)
 - 20201210：[Q14：如何实现一个 new](/questions/q14-20201210.md)
 - 20201209：[Q13：Promise 构造函数是同步执行还是异步执行，那么 then 方法呢？](/questions/q13-20201209.md)
 - 20201208：[Q12：JS 异步解决方案的发展历程以及优缺点](/questions/q12-20201208.md)
