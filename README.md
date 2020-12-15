@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201215：[Q19：React setState 笔试题，下面的代码输出什么？](/questions/q19-20201215.md)
 - 20201214：[Q18：React 中 setState 什么时候是同步的，什么时候是异步的？](/questions/q18-20201214.md)
 - 20201213：[Q17：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](/questions/q17-20201213.md)
 - 20201212：[Q16：谈谈你对 TCP 三次握手和四次挥手的理解](/questions/q16-20201212.md)
