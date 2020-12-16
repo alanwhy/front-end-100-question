@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201216：[Q20：介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？](/questions/q20-20201216.md)
 - 20201215：[Q19：React setState 笔试题，下面的代码输出什么？](/questions/q19-20201215.md)
 - 20201214：[Q18：React 中 setState 什么时候是同步的，什么时候是异步的？](/questions/q18-20201214.md)
 - 20201213：[Q17：A、B 机器正常连接后，B 机器突然重启，问 A 此时处于 TCP 什么状态](/questions/q17-20201213.md)
