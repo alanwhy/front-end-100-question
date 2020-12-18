@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201218：[Q22：有以下 3 个判断数组的方法，请分别介绍它们之间的区别和优劣Object.prototype.toString.call() 、 instanceof 以及 Array.isArray()](/questions/q22-20201218.md)
 - 20201217：[Q21：介绍下重绘和回流（Repaint & Reflow），以及如何进行优化](/questions/q21-20201217.md)
 - 20201216：[Q20：介绍下 npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？](/questions/q20-20201216.md)
 - 20201215：[Q19：React setState 笔试题，下面的代码输出什么？](/questions/q19-20201215.md)
