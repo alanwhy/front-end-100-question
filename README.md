@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201222：[Q26：介绍模块化发展历程](/questions/q26-20201222.md)
 - 20201221：[Q25：介绍下观察者模式和订阅-发布模式的区别，各自适用于什么场景](/questions/q25-20201221.md)
 - 20201220：[Q24：浏览器和 Node 事件循环的区别](/questions/q24-20201220.md)
 - 20201219：[Q23：聊聊 Redux 和 Vuex 的设计思想](/questions/q23-20201219.md)
