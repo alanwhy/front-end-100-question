@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201226：[Q30：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](/questions/q30-20201226.md)
 - 20201225：[Q29：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](/questions/q29-20201225.md)
 - 20201224：[Q28：cookie 和 token 都存放在 header 中，为什么不会劫持 token？](/questions/q28-20201224.md)
 - 20201223：[Q27：关于 const 和 let 声明的变量不在 window 上](/questions/q27-20201223.md)
