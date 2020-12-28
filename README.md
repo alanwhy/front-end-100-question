@@ -10,6 +10,10 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201228：[Q32：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](/questions/q32-20201228.md)
+
+#### 第六周 ⬆
+
 - 20201227：[Q31：改造下面的代码，使之输出 0 - 9，写出你能想到的所有解法。](/questions/q31-20201227.md)
 - 20201226：[Q30：请把俩个数组 [A1, A2, B1, B2, C1, C2, D1, D2] 和 [A, B, C, D]，合并为 [A1, A2, A, B1, B2, B, C1, C2, C, D1, D2, D]](/questions/q30-20201226.md)
 - 20201225：[Q29：聊聊 Vue 的双向数据绑定，Model 如何改变 View，View 又是如何改变 Model 的](/questions/q29-20201225.md)
