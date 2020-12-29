@@ -10,6 +10,14 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20201229：[Q33：下面的代码打印什么内容，为什么？](/questions/q33-20201229.md)
+  ```js
+  var b = 10;
+  (function b() {
+    b = 20;
+    console.log(b);
+  })();
+  ```
 - 20201228：[Q32：Virtual DOM 真的比操作原生 DOM 快吗？谈谈你的想法。](/questions/q32-20201228.md)
 
 #### 第六周 ⬆
