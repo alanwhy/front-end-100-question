@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210101：[Q36：使用迭代的方式实现 flatten 函数](/questions/q36-20210101.md)
 - 20201231：[Q35：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache 中？](/questions/q35-20201231.md)
 - 20201230：[Q34：简单改造下面的代码，使之分别打印 10 和 20。](/questions/q34-20201230.md)
   ```js
