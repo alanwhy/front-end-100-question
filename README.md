@@ -10,6 +10,13 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210103：[Q38：下面代码中 a 在什么情况下会打印 1？](/questions/q38-20210103.md)
+  ```js
+  var a = ?;
+  if(a == 1 && a == 2 && a == 3){
+  	console.log(1);
+  }
+  ```
 - 20210102：[Q37：为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？](/questions/q37-20210102.md)
 - 20210101：[Q36：使用迭代的方式实现 flatten 函数](/questions/q36-20210101.md)
 - 20201231：[Q35：请求时浏览器缓存 from memory cache 和 from disk cache 的依据是什么，哪些数据什么时候存放在 Memory Cache 和 Disk Cache 中？](/questions/q35-20201231.md)
