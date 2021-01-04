@@ -10,6 +10,10 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210104：[Q39：介绍下 BFC 及其应用](/questions/q39-20210104.md)
+
+#### 第七周 ⬆
+
 - 20210103：[Q38：下面代码中 a 在什么情况下会打印 1？](/questions/q38-20210103.md)
   ```js
   var a = ?;
