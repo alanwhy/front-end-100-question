@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210105：[Q40：在 Vue 中，子组件为何不可以修改父组件传递的 Prop，如果修改了，Vue 是如何监控到属性的修改并给出警告的。](/questions/q40-20210105.md)
 - 20210104：[Q39：介绍下 BFC 及其应用](/questions/q39-20210104.md)
 
 #### 第七周 ⬆
