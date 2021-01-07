@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210107：[Q42：实现一个 sleep 函数，比如 sleep(1000) 意味着等待 1000 毫秒，可从 Promise、Generator、Async/Await 等角度实现](/questions/q42-20210107.md)
 - 20210106：[Q41：下面代码输出什么](/questions/q41-20210106.md)
   ```js
   var a = 10;
