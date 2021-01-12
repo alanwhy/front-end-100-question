@@ -10,6 +10,8 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210112: [Q47：双向绑定和 vuex 是否冲突](/questions/q47-20210112.md)
+
 - 20210110：[Q45：HTTPS 握手过程中，客户端如何验证证书的合法性](/questions/q45-20210110.md)
 - 20210109：[Q44：介绍 HTTPS 握手过程](/questions/q44-20210109.md)
 - 20210108：[Q43：使用 sort() 对数组 [3, 15, 8, 29, 102, 22] 进行排序，输出结果](/questions/q43-20210108.md)
