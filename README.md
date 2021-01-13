@@ -10,11 +10,13 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210113: [Q48：call 和 apply 的区别是什么，哪个性能更好一些](/questions/q48-20210113.md)
+- 20210112: [Q47：双向绑定和 vuex 是否冲突](/questions/q47-20210112.md)
 - 20210111：[Q46：输出以下代码执行的结果并解释为什么](/questions/q46-20210111.md)
   ```js
   var obj = {
-    '2': 3,
-    '3': 4,
+    2: 3,
+    3: 4,
     length: 2,
     splice: Array.prototype.splice,
     push: Array.prototype.push,
