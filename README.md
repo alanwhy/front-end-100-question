@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210113: [Q48：call 和 apply 的区别是什么，哪个性能更好一些](/questions/q48-20210113.md)
 - 20210112: [Q47：双向绑定和 vuex 是否冲突](/questions/q47-20210112.md)
 
 - 20210110：[Q45：HTTPS 握手过程中，客户端如何验证证书的合法性](/questions/q45-20210110.md)
