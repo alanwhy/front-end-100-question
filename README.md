@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210115: [Q50：实现 (5).add(3).minus(2) 功能](/questions/q50-20210115.md)
 - 20210114: [Q49：为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片？](/questions/q49-20210114.md)
 - 20210113: [Q48：call 和 apply 的区别是什么，哪个性能更好一些](/questions/q48-20210113.md)
 - 20210112: [Q47：双向绑定和 vuex 是否冲突](/questions/q47-20210112.md)
