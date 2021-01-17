@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210117: [Q52：怎么让一个 div 水平垂直居中](/questions/q52-20210117.md)
 - 20210116: [Q51：Vue 的响应式原理中 Object.defineProperty 有什么缺陷？](/questions/q51-20210116.md)
 - 20210115: [Q50：实现 (5).add(3).minus(2) 功能](/questions/q50-20210115.md)
 - 20210114: [Q49：为什么通常在发送数据埋点请求的时候使用的是 1x1 像素的透明 gif 图片？](/questions/q49-20210114.md)
