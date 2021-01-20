@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210120: [Q55：某公司 1 到 12 月份的销售额存在一个对象里面，如下：{1:222, 2:123, 5:888}，请把数据处理为如下结构：[222, 123, null, null, 888, null, null, null, null, null, null, null]。](/questions/q55-20210120.md)
 - 20210119: [Q54：冒泡排序如何实现，时间复杂度是多少，还可以如何改进？](/questions/q54-20210119.md)
 - 20210118: [Q53：输出以下代码的执行结果并解释为什么](/questions/q53-20210118.md)
   ```js
