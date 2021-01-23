@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210123: [Q58：箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](/questions/q58-20210123.md)
 - 20210122: [Q57：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](/questions/q57-20210122.md)
 - 20210121: [Q56：要求设计 LazyMan 类，实现以下功能。](/questions/q56-20210121.md)
 
