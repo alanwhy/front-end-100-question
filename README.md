@@ -10,7 +10,14 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
-- 20210124: [Q58：给定两个数组，写一个方法来计算它们的交集。](/questions/q59-20210124.md)
+- 20210125: [Q60：已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改。](/questions/q60-20210125.md)
+  ```html
+    <img src="1.jpg" style="width:480px!important;”>
+  ```
+
+#### 第十周 ⬆
+
+- 20210124: [Q59：给定两个数组，写一个方法来计算它们的交集。](/questions/q59-20210124.md)
 - 20210123: [Q58：箭头函数与普通函数（function）的区别是什么？构造函数（function）可以使用 new 生成实例，那么箭头函数可以吗？为什么？](/questions/q58-20210123.md)
 - 20210122: [Q57：分析比较 opacity: 0、visibility: hidden、display: none 优劣和适用场景](/questions/q57-20210122.md)
 - 20210121: [Q56：要求设计 LazyMan 类，实现以下功能。](/questions/q56-20210121.md)
