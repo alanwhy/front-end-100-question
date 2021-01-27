@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210127: [Q62：redux 为什么要把 reducer 设计成纯函数](/questions/q62-20210127.md)
 - 20210126: [Q61：介绍下如何实现 token 加密](/questions/q61-20210126.md)
 - 20210125: [Q60：已知如下代码，如何修改才能让图片宽度为 300px ？注意下面代码不可修改。](/questions/q60-20210125.md)
   ```html
