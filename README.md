@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210129: [Q64：模拟实现一个 Promise.finally](/questions/q64-20210129.md)
 - 20210128: [Q63：如何设计实现无缝轮播](/questions/q63-20210128.md)
 - 20210127: [Q62：redux 为什么要把 reducer 设计成纯函数](/questions/q62-20210127.md)
 - 20210126: [Q61：介绍下如何实现 token 加密](/questions/q61-20210126.md)
