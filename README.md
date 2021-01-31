@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210131: [Q66：ES6 代码转成 ES5 代码的实现思路是什么](/questions/q66-20210131.md)
 - 20210130: [Q65：a.b.c.d 和 a['b']['c']['d']，哪个性能更高？](/questions/q65-20210130.md)
 - 20210129: [Q64：模拟实现一个 Promise.finally](/questions/q64-20210129.md)
 - 20210128: [Q63：如何设计实现无缝轮播](/questions/q63-20210128.md)
