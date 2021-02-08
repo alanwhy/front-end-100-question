@@ -10,6 +10,9 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210208: [Q74：使用 JavaScript Proxy 实现简单的数据绑定](/questions/q74-20210208.md)
+#### 第十二周 ⬆
+
 - 20210207: [Q73：介绍下 BFC、IFC、GFC 和 FFC](/questions/q73-20210207.md)
 - 20210206: [Q72：为什么普通 `for` 循环的性能远远高于 `forEach` 的性能，请解释其中的原因。](/questions/q72-20210206.md)
 - 20210205: [Q71：实现一个字符串匹配算法，从长度为 n 的字符串 S 中，查找是否存在字符串 T，T 的长度是 m，若存在返回所在位置。](/questions/q71-20210205.md)
