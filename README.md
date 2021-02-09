@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210209: [Q75：数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少](/questions/q75-20210209.md)
 - 20210208: [Q74：使用 JavaScript Proxy 实现简单的数据绑定](/questions/q74-20210208.md)
 #### 第十二周 ⬆
 
