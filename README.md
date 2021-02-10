@@ -10,6 +10,28 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210210: [Q76：输出以下代码运行结果](/questions/q76-20210210.md)
+  ```js
+    // example 1
+    var a={}, b='123', c=123;  
+    a[b]='b';
+    a[c]='c';  
+    console.log(a[b]);
+
+    ---------------------
+    // example 2
+    var a={}, b=Symbol('123'), c=Symbol('123');  
+    a[b]='b';
+    a[c]='c';  
+    console.log(a[b]);
+
+    ---------------------
+    // example 3
+    var a={}, b={key:'123'}, c={key:'456'};  
+    a[b]='b';
+    a[c]='c';  
+    console.log(a[b]);
+  ```
 - 20210209: [Q75：数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少](/questions/q75-20210209.md)
 - 20210208: [Q74：使用 JavaScript Proxy 实现简单的数据绑定](/questions/q74-20210208.md)
 #### 第十二周 ⬆
