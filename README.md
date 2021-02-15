@@ -10,6 +10,9 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210215: [Q81：打印出 1 - 10000 之间的所有对称数](/questions/q81-20210215.md)
+#### 第十三周 ⬆
+
 - 20210214: [Q80：介绍下 Promise.all 使用、原理实现及错误处理](/questions/q80-20210214.md)
 - 20210213: [Q79：input 搜索如何防抖，如何处理中文输入](/questions/q79-20210213.md)
 - 20210212: [Q78：Vue 的父组件和子组件生命周期钩子执行顺序是什么](/questions/q78-20210212.md)
