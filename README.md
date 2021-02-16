@@ -10,7 +10,9 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210216: [Q82：周一算法题之「移动零」](/questions/q82-20210216.md)
 - 20210215: [Q81：打印出 1 - 10000 之间的所有对称数](/questions/q81-20210215.md)
+
 #### 第十三周 ⬆
 
 - 20210214: [Q80：介绍下 Promise.all 使用、原理实现及错误处理](/questions/q80-20210214.md)
@@ -18,29 +20,32 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 - 20210212: [Q78：Vue 的父组件和子组件生命周期钩子执行顺序是什么](/questions/q78-20210212.md)
 - 20210211: [Q77：算法题「旋转数组」](/questions/q77-20210211.md)
 - 20210210: [Q76：输出以下代码运行结果](/questions/q76-20210210.md)
+
   ```js
     // example 1
-    var a={}, b='123', c=123;  
+    var a={}, b='123', c=123;
     a[b]='b';
-    a[c]='c';  
+    a[c]='c';
     console.log(a[b]);
 
     ---------------------
     // example 2
-    var a={}, b=Symbol('123'), c=Symbol('123');  
+    var a={}, b=Symbol('123'), c=Symbol('123');
     a[b]='b';
-    a[c]='c';  
+    a[c]='c';
     console.log(a[b]);
 
     ---------------------
     // example 3
-    var a={}, b={key:'123'}, c={key:'456'};  
+    var a={}, b={key:'123'}, c={key:'456'};
     a[b]='b';
-    a[c]='c';  
+    a[c]='c';
     console.log(a[b]);
   ```
-- 20210209: [Q75：数组里面有10万个数据，取第一个元素和第10万个元素的时间相差多少](/questions/q75-20210209.md)
+
+- 20210209: [Q75：数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少](/questions/q75-20210209.md)
 - 20210208: [Q74：使用 JavaScript Proxy 实现简单的数据绑定](/questions/q74-20210208.md)
+
 #### 第十二周 ⬆
 
 - 20210207: [Q73：介绍下 BFC、IFC、GFC 和 FFC](/questions/q73-20210207.md)
