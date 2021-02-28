@@ -10,6 +10,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
+- 20210228: [Q94：vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么？](/questions/q94-20210228.md)
 - 20210227: [Q93：给定两个大小为 m 和 n 的有序数组 nums1 和 nums2。请找出这两个有序数组的中位数。要求算法的时间复杂度为 O(log(m+n))](/questions/q93-20210227.md)
 - 20210226: [Q92：已知数据格式，实现一个函数 fn 找出链条中所有的父级 id](/questions/q92-20210226.md)
 - 20210225: [Q91：介绍下 HTTPS 中间人攻击](/questions/q91-20210225.md)
