@@ -14,7 +14,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 - 20210305: [Q99：](/questions/q99-20210305.md)
 - 20210304: [Q98：](/questions/q98-20210304.md)
 - 20210303: [Q97：](/questions/q97-20210303.md)
-- 20210302: [Q96：](/questions/q96-20210302.md)
+- 20210302: [Q96：介绍下前端加密的常见场景和方法](/questions/q96-20210302.md)
 - 20210301: [Q95：模拟实现一个深拷贝，并考虑对象相互引用以及 Symbol 拷贝的情况](/questions/q95-20210301.md)
 #### 第十五周 ⬆
 
