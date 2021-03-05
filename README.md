@@ -11,7 +11,7 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 ### 每日一更
 
 - 20210306: [Q100：](/questions/q100-20210306.md)
-- 20210305: [Q99：](/questions/q99-20210305.md)
+- 20210305: [Q99：编程算法题](/questions/q99-20210305.md)
 - 20210304: [Q98：写出如下代码的打印结果](/questions/q98-20210304.md)
 
 ```js
