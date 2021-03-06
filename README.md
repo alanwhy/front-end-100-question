@@ -10,7 +10,29 @@ git 地址：[前端 100 问](https://github.com/alanwhy/front-end-100-question)
 
 ### 每日一更
 
-- 20210306: [Q100：](/questions/q100-20210306.md)
+- 20210306: [Q100：请写出如下代码的打印结果](/questions/q100-20210306.md)
+
+```js
+function Foo() {
+  Foo.a = function () {
+    console.log(1);
+  };
+  this.a = function () {
+    console.log(2);
+  };
+}
+Foo.prototype.a = function () {
+  console.log(3);
+};
+Foo.a = function () {
+  console.log(4);
+};
+Foo.a();
+let obj = new Foo();
+obj.a();
+Foo.a();
+```
+
 - 20210305: [Q99：编程算法题](/questions/q99-20210305.md)
 - 20210304: [Q98：写出如下代码的打印结果](/questions/q98-20210304.md)
 
